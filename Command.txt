@@ -1,1 +1,5 @@
 1. git init - It is use to initialize the empty git repositeryn in the folder.
+
+2. Git status - It is use to check the status of the of the 
+
+3. la - it is use to check the list of file inside the current directory.
