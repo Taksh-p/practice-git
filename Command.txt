@@ -1,0 +1,1 @@
+1. git init - It is use to initialize the empty git repositeryn in the folder.
